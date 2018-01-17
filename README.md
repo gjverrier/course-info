@@ -1,75 +1,39 @@
-Computer Science 342
+ETR 149 - PC Repair
 ====================
 
-Study of concepts in programming languages and major programming paradigms,
-especially functional programming. Special emphasis on design tradeoffs that
-enable students to make sound choices of programming languages for a given
-software development task. Programming projects.  Nonmajor graduate credit.
+Teaches maintenance, troubleshooting, and repair of personal computers focusing on hardware. Students in this class are preparing for the CompTIA A+ Exam.
 
 ## About the Class
 
 ### Instructor
-Hua Ming, hming@iastate.edu
+Guy "Jack" Verrier, gjv204@email.vccs.edu
 
 **Office Hours:**
 
-* **Location:** B20 Atanasoff Hall
-* **Time:** Tuesday 4-5pm
+* **Location:** M833
+* **Time:** Monday 2-4pm
 
 #### Lecture
 
-* **Meeting Time:** TR 2:10 - 3:30pm
-* **Location:** Gilman 1104
+* **Meeting Time:** M 7:00 - 9:45pm
+* **Location:** M833
 
-#### Recitations
-
-* Wednesday at 9am in Gilman 1312
-* Wednesday at 4:10pm in Gilman 0312
-
-### Teacher's Assistants
-
-#### Lorand Szakacs
-
-lorand@iastate.edu
-
-**Office Hours**
-
-* Monday at 2-3pm in Pearson 0145
-* Friday at 2-3:30pm in Pearson 0145
-
-#### Josh Davis
-
-joshuad@iastate.edu
-
-**Office Hours:**
-
-* Tues & Thurs at 11am - noon in Pearson 0145
-
-#### Ru He
-
-rhe@iastate.edu
-
-**Office Hours:**
-
-* Tuesday 4-5pm in B22 Atanasoff
 
 ### Textbooks
 
-#### Required
+#### Required Reading
 
-1. [The Little Schemer][schemer] by Daniel P. Friedman & Matthias Felleisen.
-   [Amazon](http://amzn.com/0262560992)
-2. [Essentials of Programming Languages][eopl] by Daniel P. Friedman & Mitchell
-   Wand. [Amazon](http://amzn.com/0262062798)
+* **[A+ guide to hardware][Andrews] by Andrews, J. [Amazon](http://a.co/1O67UbB)
 
-#### Optional
+#### Required Tools
 
-1. [Structure and Interpretation of Computer Programs][sicp] by Harold Abelson &
-   Gerald Sussman. [Amazon](http://amzn.com/0262510871)
+* **Anti-static wristband
 
-SICP is available completely online for free:
-[http://mitpress.mit.edu/sicp/full-text/book/book.html](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+#### Optional Media
 
-[schemer]: http://www.ccs.neu.edu/home/matthias/BTLS/
-[sicp]: http://mitpress.mit.edu/sicp/
-[eopl]: http://www.eopl3.com/
+1. [PC Perspective Podcast][pcper]
+2. [This Week in Computer Hardware][twit]
+
+[andrews]: http://www.ccs.neu.edu/home/matthias/BTLS/
+[pcper]: http://www.pcper.com/podcast
+[twit]: https://twit.tv/shows/this-week-in-computer-hardware/episodes
