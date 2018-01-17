@@ -34,6 +34,6 @@ Guy "Jack" Verrier, gjv204@email.vccs.edu
 1. [PC Perspective Podcast][pcper]
 2. [This Week in Computer Hardware][twit]
 
-[andrews]: http://www.ccs.neu.edu/home/matthias/BTLS/
+[andrews]: http://a.co/1O67UbB
 [pcper]: http://www.pcper.com/podcast
 [twit]: https://twit.tv/shows/this-week-in-computer-hardware/episodes
